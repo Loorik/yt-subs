@@ -8,5 +8,5 @@ You need to setup a project in Google Cloud, activate Youtube Data API v3 for th
 Your subscriptions should be in csv format and it should at least contain the ChannelId. You can also use the ChannelTitle if available, but the script needs to be adopted then. You can download your subscriptions using [Google Takeout Manager](https://takeout.google.com/takeout/custom/youtube)
 
 # Usage
-If requirements are installed, ´Subscribers.csv´ and `client_secrets.json` are in place (same directory as ´main.py´), execute ´main.py´, follow instructions on your browser and enjoy. 
+If requirements are installed, `Subscribers.csv` and `client_secrets.json` are in place (same directory as `main.py`), execute `main.py`, follow instructions on your browser and enjoy. 
 For each added subscriber, the script prints the ChannelId.
